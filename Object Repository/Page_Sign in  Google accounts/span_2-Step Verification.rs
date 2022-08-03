@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2-Step Verification</name>
+   <tag></tag>
+   <elementGuidId>d9916390-c0c5-4b95-818e-452f6aeb8601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='headingText']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headingText > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0aa1bff-e597-4df3-89f9-7aec5c100db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2-Step Verification</value>
+      <webElementGuid>9739f6b1-4e12-4e1a-9570-f7e1d9aef85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingText&quot;)/span[1]</value>
+      <webElementGuid>0b5e529c-7c90-4924-ab24-a7778812aac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='headingText']/span</value>
+      <webElementGuid>b5dc9edc-a98e-40f4-85d5-d41803bcf763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To help keep your account safe, Google wants to make sure that it’s really you trying to sign in'])[1]/preceding::span[1]</value>
+      <webElementGuid>1fd7f79a-4273-49e2-b362-bd750510eb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sagar.salunke@infobeans.com'])[1]/preceding::span[2]</value>
+      <webElementGuid>0604165a-e292-47ff-87ef-bfa6fc266ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2-Step Verification']/parent::*</value>
+      <webElementGuid>50cec96d-74c8-4c94-8dc2-02f439d4fdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>e084b141-73bf-4343-a9fc-13c2d16bec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2-Step Verification' or . = '2-Step Verification')]</value>
+      <webElementGuid>3701f5dc-3837-4eaa-950c-a21926c25ef7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
